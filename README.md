@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVtemIwNXN2cTVhZjFsYmU3c3dvZHR5Ym1samZxZXU5bWt5bTU5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V7cjRV6CmbWISvj1CO/giphy.gif" width="75%" height="auto" />
 </div>
 
-<h1 align="center">Hi there, I'm [Braydon Olinger] 👋</h1>
+<h1 align="center">Hi there, I'm Braydon Olinger 👋</h1>
 
 <p align="center">
   <a href="[https://www.linkedin.com/in/BraydonOlinger/](https://www.linkedin.com/in/braydon-olinger-191775171/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/></a>
@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 About Me:
-I am a [Full Stack Web Developer] based in [St Louis, Missouri]. I have a passion for [Esports, Gaming, Sports & Learning] and love to create innovative solutions.
+I am a Full Stack Web Developer based in St Louis, Missouri. I have a passion for Esports, Gaming, Sports & Learning and love to create innovative solutions.
 
 - 🔭 I'm currently working on my Portfolio
 - 🌱 I'm currently learning Python
