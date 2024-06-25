@@ -1,5 +1,5 @@
 <div align="center">
-https://github.com/BraydonOlinger/BraydonOlinger/assets/160094144/76947c62-b6e5-4c2f-87ee-69b8bf0f0a63
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVtemIwNXN2cTVhZjFsYmU3c3dvZHR5Ym1samZxZXU5bWt5bTU5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V7cjRV6CmbWISvj1CO/giphy.gif" width="100%" height="auto" />
 </div>
 
 <h1 align="center">Hi there, I'm [Braydon Olinger] 👋</h1>
