@@ -24,7 +24,7 @@ I am a Full Stack Web Developer based in St Louis, Missouri. I have a passion fo
 
 ### 🛠️ Languages and Tools:
 
-<div class=languages width="35%" height="auto">
+<div justify-content: space-between>
 ![JavaScript-logo](https://github.com/BraydonOlinger/BraydonOlinger/assets/160094144/9014f147-2715-4da3-8692-5d60ad6dfb97)
 ![HTML5_logo_and_wordmark svg](https://github.com/BraydonOlinger/BraydonOlinger/assets/160094144/96674b9a-d6ea-497e-a7a9-f99983068ed6)
 ![CSS3_logo svg](https://github.com/BraydonOlinger/BraydonOlinger/assets/160094144/446110d9-ea5f-472e-8425-48057171c976)
