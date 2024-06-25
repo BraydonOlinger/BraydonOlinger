@@ -24,6 +24,7 @@ I am a Full Stack Web Developer based in St Louis, Missouri. I have a passion fo
 
 ### 🛠️ Languages and Tools:
 
+<div class=languages width="35%" height="auto">
 ![JavaScript-logo](https://github.com/BraydonOlinger/BraydonOlinger/assets/160094144/9014f147-2715-4da3-8692-5d60ad6dfb97)
 ![HTML5_logo_and_wordmark svg](https://github.com/BraydonOlinger/BraydonOlinger/assets/160094144/96674b9a-d6ea-497e-a7a9-f99983068ed6)
 ![CSS3_logo svg](https://github.com/BraydonOlinger/BraydonOlinger/assets/160094144/446110d9-ea5f-472e-8425-48057171c976)
@@ -31,7 +32,7 @@ I am a Full Stack Web Developer based in St Louis, Missouri. I have a passion fo
 ![590px-Node js_logo svg](https://github.com/BraydonOlinger/BraydonOlinger/assets/160094144/93520500-146f-4f61-ada7-5cff7dcb80c0)
 ![590px-Node js_logo svg](https://github.com/BraydonOlinger/BraydonOlinger/assets/160094144/d3ea739f-ff11-40ca-9a33-d201b559fb9c)
 ![MongoDB_Logo svg](https://github.com/BraydonOlinger/BraydonOlinger/assets/160094144/41322ad1-8ce7-4416-b802-3205a1ac4965)
-
+</div>
 
 ### 📈 GitHub Stats:
 
