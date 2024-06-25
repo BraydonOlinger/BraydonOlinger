@@ -34,4 +34,4 @@ I am a Full Stack Web Developer based in St Louis, Missouri. I have a passion fo
 
 ### 📈 GitHub Stats:
 
-[Braydon Olinger's GitHub stats](https://github-readme-stats.vercel.app/api?username=BraydonOlinger&show_icons=true&theme=radical)
+![api](https://github.com/BraydonOlinger/BraydonOlinger/assets/160094144/37c57e55-a1af-4204-9d9b-109feedcf0f5)
