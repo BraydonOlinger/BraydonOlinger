@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=https://giphy.com/gifs/V7cjRV6CmbWISvj1CO"" width="100%" height="auto" />
+  <iframe src="https://giphy.com/embed/V7cjRV6CmbWISvj1CO" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/V7cjRV6CmbWISvj1CO">via GIPHY</a></p>
 </div>
 
 <h1 align="center">Hi there, I'm [Braydon Olinger] 👋</h1>
