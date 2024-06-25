@@ -1,5 +1,5 @@
 <div align="center">
-  <src="https://giphy.com/embed/V7cjRV6CmbWISvj1CO" href="https://giphy.com/gifs/V7cjRV6CmbWISvj1CO">via GIPHY</a></p>
+  <src="https://giphy.com/embed/V7cjRV6CmbWISvj1CO" href="https://giphy.com/gifs/V7cjRV6CmbWISvj1CO">
 </div>
 
 <h1 align="center">Hi there, I'm [Braydon Olinger] 👋</h1>
