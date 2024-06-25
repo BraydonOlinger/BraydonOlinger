@@ -20,7 +20,6 @@ I am a Full Stack Web Developer based in St Louis, Missouri. I have a passion fo
 - 👯 I'm looking to collaborate on anything and everything
 - 💬 Ask me about Esports or the best Birria Tacos
 - 📫 How to reach me: braydonolingermktg@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I competed in semi-professional esports while going through high school, and continued my journey in esports at Missouri Baptist University on a full-ride esports scholarship which assisted me in landing a full-time role as a Digital Marketing Manager!
 
 ### 🛠️ Languages and Tools:
