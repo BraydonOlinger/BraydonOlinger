@@ -23,8 +23,7 @@ I am a Full Stack Web Developer based in St Louis, Missouri. I have a passion fo
 - ⚡ Fun fact: I competed in semi-professional esports while going through high school, and continued my journey in esports at Missouri Baptist University on a full-ride esports scholarship which assisted me in landing a full-time role as a Digital Marketing Manager! 🎮
 
 ### 🛠️ Languages and Tools:
-
-![Untitled-1](https://github.com/BraydonOlinger/BraydonOlinger/assets/160094144/7294ad35-8bdb-4f2a-b6ef-061cbf5dbf87)
+![Untitled-1](https://github.com/BraydonOlinger/BraydonOlinger/assets/160094144/e89fbefe-1b98-41f2-8c93-130472bd14d3)
 
 ### 📈 GitHub Stats:
 
