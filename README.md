@@ -24,12 +24,14 @@ I am a Full Stack Web Developer based in St Louis, Missouri. I have a passion fo
 
 ### 🛠️ Languages and Tools:
 
-[JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-[Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-[React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-[Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-[MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-<!-- Add or remove languages and tools as per your skills -->
+![JavaScript-logo](https://github.com/BraydonOlinger/BraydonOlinger/assets/160094144/9014f147-2715-4da3-8692-5d60ad6dfb97)
+![HTML5_logo_and_wordmark svg](https://github.com/BraydonOlinger/BraydonOlinger/assets/160094144/96674b9a-d6ea-497e-a7a9-f99983068ed6)
+![CSS3_logo svg](https://github.com/BraydonOlinger/BraydonOlinger/assets/160094144/446110d9-ea5f-472e-8425-48057171c976)
+![React-icon svg](https://github.com/BraydonOlinger/BraydonOlinger/assets/160094144/00bea460-c65d-4664-99ec-ab32599fbe0f)
+![590px-Node js_logo svg](https://github.com/BraydonOlinger/BraydonOlinger/assets/160094144/93520500-146f-4f61-ada7-5cff7dcb80c0)
+![590px-Node js_logo svg](https://github.com/BraydonOlinger/BraydonOlinger/assets/160094144/d3ea739f-ff11-40ca-9a33-d201b559fb9c)
+![MongoDB_Logo svg](https://github.com/BraydonOlinger/BraydonOlinger/assets/160094144/41322ad1-8ce7-4416-b802-3205a1ac4965)
+
 
 ### 📈 GitHub Stats:
 
